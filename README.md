@@ -1,4 +1,5 @@
 Scala-Class
 ===========
 
-Assignementhttps://class.coursera.org/progfun-003/class
+Assignement for the scala class
+https://class.coursera.org/progfun-003/class
